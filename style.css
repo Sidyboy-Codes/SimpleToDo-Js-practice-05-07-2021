@@ -1,0 +1,17 @@
+#Main {
+    background-color: #e6faff;
+
+}
+
+#title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin: 2% 0% 4%;
+
+
+}
+
+.content{
+    padding: 0% 10% 0% 10%;
+}
